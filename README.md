@@ -14,4 +14,4 @@
 <p>- Vitest</p>
 
 <h3>Also I have experience in:</h3>
-<p><img src="https://skillicons.dev/icons?i=redux,nodejs,git,figma,graphql,html,css,tailwind"/></p>
+<p><img src="https://skillicons.dev/icons?i=redux,nodejs,git,figma,graphql,html,css,tailwind,jest"/></p>
