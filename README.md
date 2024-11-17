@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Igor</h1>
 
-<!--
-**StickyDice/StickyDice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Inquisitive and diligent Frontend developer 💻</h2>
 
-Here are some ideas to get you started:
+- 👷 Currenly working at [OOO Комфортел](https://comfortel.pro/)
+- 📮 How to reach me? **leckomtsevigor@yandex.ru**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My main tools are:</h3>
+<p><img src="https://skillicons.dev/icons?i=react,next,ts,vite,vitest"/></p>
+<p>- React</p>
+<p>- Next.js</p>
+<p>- Typescript</p>
+<p>- Vite</p>
+<p>- Vitest</p>
+
+<h3>Also I have experience in:</h3>
+<p><img src="https://skillicons.dev/icons?i=redux,nodejs,git,figma,graphql,html,css,tailwind"/></p>
