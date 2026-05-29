@@ -2,7 +2,7 @@
 
 <h2 align="center">Inquisitive and diligent Frontend developer 💻</h2>
 
-- 👷 Currenly working at [OOO Комфортел](https://comfortel.pro/)
+- 👷 Currenly working at [ДИТ Москвы](https://www.mos.ru/dit/)
 
 <h3>My main tools are:</h3>
 <p><img src="https://skillicons.dev/icons?i=react,next,ts,vite,vitest"/></p>
